@@ -8,6 +8,7 @@
 
 int main(void)
 {
+	printf("SDL2..\n");
 	printf("Hello,world!\n");
 	return 0;
 }
