@@ -17,4 +17,10 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.cmake.core.cmakeNature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>SDL2</name>
+			<value>file:/usr/include/SDL2/SDL_vulkan.h</value>
+		</variable>
+	</variableList>
 </projectDescription>
