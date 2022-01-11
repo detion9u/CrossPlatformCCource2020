@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pkum/extwork/mycpp/vscode_c_proj/PollEvent/build",
+  "command": "/bin/clang-13 -g -o CMakeFiles/SimpleWindow.dir/main.c.o -c /home/pkum/extwork/mycpp/vscode_c_proj/PollEvent/main.c",
+  "file": "/home/pkum/extwork/mycpp/vscode_c_proj/PollEvent/main.c"
+}
+]
