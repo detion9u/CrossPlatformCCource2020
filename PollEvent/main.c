@@ -26,6 +26,10 @@ int main(void) {
 		if(SDL_PollEvent(&event))
 		{
 			printf("event type, %d\n", event.type);
+			if(event.type == SDL_QUIT)
+			{
+				break;
+			}
 		}
 	}
 
